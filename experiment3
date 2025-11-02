@@ -87,8 +87,8 @@ public:
 // -------------------- Main Function --------------------
 int main() {
   
-    cout << "Name  : Sneha Chandrakant Gurav\n";
-    cout << "Roll No: 27\n";
+    cout << "Name  : Nishigandha Digvijay Patil\n";
+    cout << "Roll No: 22\n";
     cout << "Class : S.Y. B. CSE\n";
 
 
